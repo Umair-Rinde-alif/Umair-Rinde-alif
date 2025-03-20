@@ -1,18 +1,15 @@
-- 👋 Hi, I’m @Umair-Rinde
 
-- 👨‍💻 **B.Tech IT student | Software Developer Intern | Govt. College Project Contributor**
+- 👋 Hi, I’m @Umair-Rinde  
 
-- 🔧 **Skills:** Python, TypeScript, JavaScript, Nest.js, SQL, Git
+- 👨‍💻 **B.Tech IT student | Software Developer Intern | Govt. College Project Contributor | Former ITSM Developer at Fladdra**  
 
-- 🌟 Passionate about backend development & building impactful solutions. Currently interning at a software solutions company & contributing to a government-funded college project.
+- 🔧 **Skills:** Python, TypeScript, JavaScript, Nest.js, FastAPI, Django, React.js, SQL, Git  
 
-- 🎓 Studying Information Technology, eager to learn & collaborate on exciting projects. Let's connect and code together! 💬
+- 🌟 Passionate about backend development & building impactful solutions. Currently interning at a software solutions company, contributing to a government-funded college project, and previously worked on an ITSM project at Fladdra using **React.js, Google Cloud, Azure, Django, and Python**. Also developed **Educationist.ai** using **Next.js, Django** for career guidance, **RiseBack LMS** using NestJS, **CareerView** using **FastAPI** for mock interviews and job-seeking, and a **CRM system** using **Django, React.js**.  
 
-- 💻 Coding is just a door to another world.
+- 🎓 Studying Information Technology, eager to learn & collaborate on exciting projects. Let's connect and code together! 💬  
 
-- 📫 **LinkedIn:** [Umair Rinde](https://www.linkedin.com/in/umair-rinde) | **Instagram:** [@umair\_rinde\_313](https://www.instagram.com/umair_rinde_313)
-
----
+- 💻 Coding is just a door to another world.  
 
 ## 🚀 Current Tech Stack:
 
@@ -67,6 +64,4 @@
 
 
 ---
-
-Feel free to connect and collaborate on exciting projects!
 
