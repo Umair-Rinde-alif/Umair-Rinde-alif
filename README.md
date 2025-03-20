@@ -46,38 +46,19 @@
    ![Sequelize](https://img.shields.io/badge/Sequelize-52B0B0?style=flat&logo=sequelize&logoColor=white)
 
 
----
-
-## 💼 Projects:
-
-### 1. **LMS**
-
-- **Description:** A platform connecting global students with Indian universities offering affordable degrees in Business & IT.
-- **Features:** Digital marketing courses, blockchain, AI programs, UGC-accredited degrees.
-
-### 2. **Educationist.ai**
-
-- **Description:** Career guidance platform using LangChain and ChatGPT.
-- **Highlights:** AI-driven guidance for students.
-
-### 3. **FEMS**
-
-- **Description:** Farmer empowerment project focusing on solutions for agricultural challenges.
-
-
 ## 📊 GitHub Stats:
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Umair-Rinde&theme=github)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Umair-Rinde-alif&theme=github)
 
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Umair-Rinde&show_icons=true&theme=radical" alt="Umair's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Umair-Rinde-alif&show_icons=true&theme=radical" alt="Umair's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umair-Rinde&layout=compact&theme=radical" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umair-Rinde-alif&layout=compact&theme=radical" alt="Top Languages" />
       </td>
     </tr>
   </table>
